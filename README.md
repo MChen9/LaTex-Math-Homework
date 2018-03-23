@@ -1,3 +1,2 @@
-# LaTex-Template
-For Math Homework  
+# LaTex-Math Homework
 Sharelatex
